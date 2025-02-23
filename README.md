@@ -21,7 +21,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 ## Demo
 
-Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
+Check out the live demo [here](https://spotify-clone-29.netlify.app/).
 
 ## Technologies
 
